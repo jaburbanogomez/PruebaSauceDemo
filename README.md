@@ -14,3 +14,10 @@ https://www.saucedemo.com/
 - Login exitoso con credenciales válidas
 - Login fallido con contraseña incorrecta
 - Validación de campos obligatorios
+
+## Se agrega coleccion de postman para el ejercicio del Modulo API
+## Cómo ejecutar
+1. Importar la colección en Postman
+2. Importar la colection
+3. Seleccionar lacolection
+4. Ejecutar requests
