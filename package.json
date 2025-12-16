@@ -1,0 +1,11 @@
+{
+  "name": "saucedemo-smoke-test",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test:login": "cypress run --spec cypress/e2e/loginTest.cy.js"
+  },
+  "devDependencies": {
+    "cypress": "^15.7.1"
+  }
+}
